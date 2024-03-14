@@ -1,0 +1,10 @@
+# ignore dependency files
+Pipfile
+Pipfile.lock
+
+# ignore database
+/server/instance/
+/server/migrations/
+
+# ignore environment
+.venv
